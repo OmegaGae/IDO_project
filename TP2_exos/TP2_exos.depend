@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614205169 source:c:\users\hp\desktop\projet ido\exercices\tp2_exos\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<string>
+
